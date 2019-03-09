@@ -1,0 +1,4106 @@
+
+------------------------
+2019.03.07 20:01:30
+ImBot Event Query
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [22] => Array
+                        (
+                            [domain] => b24-9bd55y.bitrix24.ru
+                            [member_id] => 94baa03fab636214a4e31bff75b2380c
+                            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-9bd55y.bitrix24.ru
+                                    [member_id] => 94baa03fab636214a4e31bff75b2380c
+                                    [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                                )
+
+                            [BOT_ID] => 22
+                            [BOT_CODE] => itrbot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 62
+                    [MESSAGE] => привет
+                    [TO_CHAT_ID] => 100
+                    [MESSAGE_TYPE] => L
+                    [SKIP_COMMAND] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [SILENT_CONNECTOR] => N
+                    [AUTHOR_ID] => 62
+                    [CHAT_ID] => 100
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => livechat|2|98|62
+                    [CHAT_ENTITY_DATA_1] => N|NONE|0|N|N|44|1551977419
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [MESSAGE_ORIGINAL] => привет
+                    [TO_USER_ID] => 0
+                    [DIALOG_ID] => chat100
+                    [MESSAGE_ID] => 1730
+                    [CHAT_TYPE] => L
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 62
+                    [NAME] => Гость
+                    [FIRST_NAME] => Гость
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1551978088
+    [auth] => Array
+        (
+            [access_token] => 795c815c00376e1a0037507a0000003e000003a50ba49f6e76661c41953756fe54f45e
+            [expires] => 1551981689
+            [expires_in] => 3600
+            [scope] => imbot,imopenlines
+            [domain] => b24-9bd55y.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-9bd55y.bitrix24.ru/rest/
+            [member_id] => d41d8cd98f00b204e9800998ecf8427e
+            [user_id] => 62
+            [refresh_token] => 69dba85c00376e1a0037507a0000003e0000033f2df968193594dc4538aa0580f28e32
+            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:01:30
+ImBot send data
+Array
+(
+    [URL] => https://b24-9bd55y.bitrix24.ru/rest/imbot.message.add
+    [PARAMS] => Array
+        (
+            [DIALOG_ID] => chat100
+            [MESSAGE] => Привет, я Ольга, специалист по подбору персонала компании "Стройландия". Я помогу тебе найти работу в нашей компании.[br][send=Продолжить]Продолжить[/send]
+            [auth] => 795c815c00376e1a0037507a0000003e000003a50ba49f6e76661c41953756fe54f45e
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:01:49
+ImBot Event Query
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [22] => Array
+                        (
+                            [domain] => b24-9bd55y.bitrix24.ru
+                            [member_id] => 94baa03fab636214a4e31bff75b2380c
+                            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-9bd55y.bitrix24.ru
+                                    [member_id] => 94baa03fab636214a4e31bff75b2380c
+                                    [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                                )
+
+                            [BOT_ID] => 22
+                            [BOT_CODE] => itrbot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 62
+                    [MESSAGE] => Продолжить
+                    [TO_CHAT_ID] => 100
+                    [MESSAGE_TYPE] => L
+                    [SKIP_COMMAND] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [SILENT_CONNECTOR] => N
+                    [AUTHOR_ID] => 62
+                    [CHAT_ID] => 100
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => livechat|2|98|62
+                    [CHAT_ENTITY_DATA_1] => N|NONE|0|N|N|44|1551977419
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [MESSAGE_ORIGINAL] => Продолжить
+                    [TO_USER_ID] => 0
+                    [DIALOG_ID] => chat100
+                    [MESSAGE_ID] => 1738
+                    [CHAT_TYPE] => L
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 62
+                    [NAME] => Гость
+                    [FIRST_NAME] => Гость
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1551978107
+    [auth] => Array
+        (
+            [access_token] => 8c5c815c00376e1a0037507a0000003e000003f3d4cae38a1d983735ee0de17ccea27a
+            [expires] => 1551981708
+            [expires_in] => 3600
+            [scope] => imbot,imopenlines
+            [domain] => b24-9bd55y.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-9bd55y.bitrix24.ru/rest/
+            [member_id] => d41d8cd98f00b204e9800998ecf8427e
+            [user_id] => 62
+            [refresh_token] => 7cdba85c00376e1a0037507a0000003e00000372e63838f52193df6c46cc5f38eaf44d
+            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:01:49
+ImBot send data
+Array
+(
+    [URL] => https://b24-9bd55y.bitrix24.ru/rest/imbot.message.add
+    [PARAMS] => Array
+        (
+            [DIALOG_ID] => chat100
+            [MESSAGE] => Вы хотите подобрать подходящую вакансию или сначала подробнее узнать о компании?[br][send=Найти вакансии]Найти вакансии[/send][br][send=Информация о компании]Информация о компании[/send]
+            [auth] => 8c5c815c00376e1a0037507a0000003e000003f3d4cae38a1d983735ee0de17ccea27a
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:01:59
+ImBot Event Query
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [22] => Array
+                        (
+                            [domain] => b24-9bd55y.bitrix24.ru
+                            [member_id] => 94baa03fab636214a4e31bff75b2380c
+                            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-9bd55y.bitrix24.ru
+                                    [member_id] => 94baa03fab636214a4e31bff75b2380c
+                                    [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                                )
+
+                            [BOT_ID] => 22
+                            [BOT_CODE] => itrbot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 62
+                    [MESSAGE] => Информация о компании
+                    [TO_CHAT_ID] => 100
+                    [MESSAGE_TYPE] => L
+                    [SKIP_COMMAND] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [SILENT_CONNECTOR] => N
+                    [AUTHOR_ID] => 62
+                    [CHAT_ID] => 100
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => livechat|2|98|62
+                    [CHAT_ENTITY_DATA_1] => N|NONE|0|N|N|44|1551977419
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [MESSAGE_ORIGINAL] => Информация о компании
+                    [TO_USER_ID] => 0
+                    [DIALOG_ID] => chat100
+                    [MESSAGE_ID] => 1746
+                    [CHAT_TYPE] => L
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 62
+                    [NAME] => Гость
+                    [FIRST_NAME] => Гость
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1551978112
+    [auth] => Array
+        (
+            [access_token] => 965c815c00376e1a0037507a0000003e0000032135f0f025044ed4c6d4b0a75b8d705f
+            [expires] => 1551981718
+            [expires_in] => 3600
+            [scope] => imbot,imopenlines
+            [domain] => b24-9bd55y.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-9bd55y.bitrix24.ru/rest/
+            [member_id] => d41d8cd98f00b204e9800998ecf8427e
+            [user_id] => 62
+            [refresh_token] => 86dba85c00376e1a0037507a0000003e000003fbb054bda4f0d3d407dee22b425bb832
+            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:01:59
+ImBot send data
+Array
+(
+    [URL] => https://b24-9bd55y.bitrix24.ru/rest/imbot.message.add
+    [PARAMS] => Array
+        (
+            [DIALOG_ID] => chat100
+            [MESSAGE] => "Стройландия" — одна из крупнейших сетевых компаний российского рынка строительных и отделочных материалов и товаров для дома. В 1996 году мы открыли первый магазин. На сегоднящний день наш магазины успешно работают в Оренбургской области, Башкортостане, Татарстане, Удмуртии, Чувашии, Саратовской, Белгородской, Липецкой области. «Стройландия» - это эффективная команда единомышленников. В компании работает более 2000 сотрудников. Мы стремимся быть одной из тех компаний, которые заботятся о своих сотрудниках: официальное оформление, стабильная и достойная заработная плата, удобные графики работы, стремительный карьерный рост, социальные гарантии, комфортные условия работы - все это делают работу в «Стройландии» востребованной и престижной! Мы не просто продаем товар, мы стремимся делать это на высочайшем уровне! Без грамотных рук, профессионализма, искреннего участия Компания «Стройландия» невозможна. В каждом из наших подразделений работает множество людей: директора, менеджеры, продавцы, кассиры, мерчендайзеры, экономисты, программисты.И труд каждого человека – драгоценен. Вы тоже можете стать частью общего Успеха![br][send=Найти вакансии]Найти вакансии[/send][br][send=Досвидания]Досвидания[/send]
+            [auth] => 965c815c00376e1a0037507a0000003e0000032135f0f025044ed4c6d4b0a75b8d705f
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:02:05
+ImBot Event Query
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [22] => Array
+                        (
+                            [domain] => b24-9bd55y.bitrix24.ru
+                            [member_id] => 94baa03fab636214a4e31bff75b2380c
+                            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-9bd55y.bitrix24.ru
+                                    [member_id] => 94baa03fab636214a4e31bff75b2380c
+                                    [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                                )
+
+                            [BOT_ID] => 22
+                            [BOT_CODE] => itrbot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 62
+                    [MESSAGE] => Найти вакансии
+                    [TO_CHAT_ID] => 100
+                    [MESSAGE_TYPE] => L
+                    [SKIP_COMMAND] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [SILENT_CONNECTOR] => N
+                    [AUTHOR_ID] => 62
+                    [CHAT_ID] => 100
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => livechat|2|98|62
+                    [CHAT_ENTITY_DATA_1] => N|NONE|0|N|N|44|1551977419
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [MESSAGE_ORIGINAL] => Найти вакансии
+                    [TO_USER_ID] => 0
+                    [DIALOG_ID] => chat100
+                    [MESSAGE_ID] => 1754
+                    [CHAT_TYPE] => L
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 62
+                    [NAME] => Гость
+                    [FIRST_NAME] => Гость
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1551978122
+    [auth] => Array
+        (
+            [access_token] => 9b5c815c00376e1a0037507a0000003e000003d1399c8811eb7efd7960bd8501a9fe71
+            [expires] => 1551981723
+            [expires_in] => 3600
+            [scope] => imbot,imopenlines
+            [domain] => b24-9bd55y.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-9bd55y.bitrix24.ru/rest/
+            [member_id] => d41d8cd98f00b204e9800998ecf8427e
+            [user_id] => 62
+            [refresh_token] => 8bdba85c00376e1a0037507a0000003e000003f718071933cfd8dc0097908d4c8aa5a1
+            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:02:05
+ImBot send data
+Array
+(
+    [URL] => https://b24-9bd55y.bitrix24.ru/rest/imbot.message.add
+    [PARAMS] => Array
+        (
+            [DIALOG_ID] => chat100
+            [MESSAGE] => Чтобы я могла помочь тебе найти подходящую вакансию, пожалуйста, напиши номер вакансии, которая тебя заинтересовала:[br][send=1]1.Продавец-консультант[/send][br][send=2]2.Оператор-кассир[/send][br][send=3]3.Грузчик-комплектовщик[/send][br][send=4]4.Кладовщик[/send][br][send=5]5.Нужной вакансии нет в списке[/send]
+            [auth] => 9b5c815c00376e1a0037507a0000003e000003d1399c8811eb7efd7960bd8501a9fe71
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:02:13
+ImBot Event Query
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [22] => Array
+                        (
+                            [domain] => b24-9bd55y.bitrix24.ru
+                            [member_id] => 94baa03fab636214a4e31bff75b2380c
+                            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-9bd55y.bitrix24.ru
+                                    [member_id] => 94baa03fab636214a4e31bff75b2380c
+                                    [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                                )
+
+                            [BOT_ID] => 22
+                            [BOT_CODE] => itrbot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 62
+                    [MESSAGE] => 1
+                    [TO_CHAT_ID] => 100
+                    [MESSAGE_TYPE] => L
+                    [SKIP_COMMAND] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [SILENT_CONNECTOR] => N
+                    [AUTHOR_ID] => 62
+                    [CHAT_ID] => 100
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => livechat|2|98|62
+                    [CHAT_ENTITY_DATA_1] => N|NONE|0|N|N|44|1551977419
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [MESSAGE_ORIGINAL] => 1
+                    [TO_USER_ID] => 0
+                    [DIALOG_ID] => chat100
+                    [MESSAGE_ID] => 1762
+                    [CHAT_TYPE] => L
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 62
+                    [NAME] => Гость
+                    [FIRST_NAME] => Гость
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1551978131
+    [auth] => Array
+        (
+            [access_token] => a35c815c00376e1a0037507a0000003e000003919414cc475c1382e27b2b3e7792df6f
+            [expires] => 1551981731
+            [expires_in] => 3600
+            [scope] => imbot,imopenlines
+            [domain] => b24-9bd55y.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-9bd55y.bitrix24.ru/rest/
+            [member_id] => d41d8cd98f00b204e9800998ecf8427e
+            [user_id] => 62
+            [refresh_token] => 93dba85c00376e1a0037507a0000003e000003d87493b35756aee7c0e116760e742b65
+            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:02:13
+ImBot send data
+Array
+(
+    [URL] => https://b24-9bd55y.bitrix24.ru/rest/imbot.message.add
+    [PARAMS] => Array
+        (
+            [DIALOG_ID] => chat100
+            [MESSAGE] => ПРОДАВЕЦ – КОНСУЛЬТАНТ[br]Итак, на позиции продавца-консультанта Тебе предстоит:[br]- консультировать покупателей по ассортименту магазина[br]- выкладывать товар на витрину согласно стандартам мерчендайзинга[br]- следить за наличием товара на полках[br]- оформлять документы для отпуска товара[br]- участвовать в ревизии товара[br][send=Вакансия интересна]Вакансия интересна[/send][br][send=Назад]Назад[/send][br][send=Досвидания]Досвидания[/send]
+            [auth] => a35c815c00376e1a0037507a0000003e000003919414cc475c1382e27b2b3e7792df6f
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:03:19
+ImBot Event Query
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [22] => Array
+                        (
+                            [domain] => b24-9bd55y.bitrix24.ru
+                            [member_id] => 94baa03fab636214a4e31bff75b2380c
+                            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-9bd55y.bitrix24.ru
+                                    [member_id] => 94baa03fab636214a4e31bff75b2380c
+                                    [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                                )
+
+                            [BOT_ID] => 22
+                            [BOT_CODE] => itrbot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 62
+                    [MESSAGE] => Вакансия интересна
+                    [TO_CHAT_ID] => 100
+                    [MESSAGE_TYPE] => L
+                    [SKIP_COMMAND] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [SILENT_CONNECTOR] => N
+                    [AUTHOR_ID] => 62
+                    [CHAT_ID] => 100
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => livechat|2|98|62
+                    [CHAT_ENTITY_DATA_1] => N|NONE|0|N|N|44|1551977419
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [MESSAGE_ORIGINAL] => Вакансия интересна
+                    [TO_USER_ID] => 0
+                    [DIALOG_ID] => chat100
+                    [MESSAGE_ID] => 1770
+                    [CHAT_TYPE] => L
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 62
+                    [NAME] => Гость
+                    [FIRST_NAME] => Гость
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1551978197
+    [auth] => Array
+        (
+            [access_token] => e55c815c00376e1a0037507a0000003e0000030a5a247eecfdf9856bbd792ebcb243b1
+            [expires] => 1551981797
+            [expires_in] => 3600
+            [scope] => imbot,imopenlines
+            [domain] => b24-9bd55y.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-9bd55y.bitrix24.ru/rest/
+            [member_id] => d41d8cd98f00b204e9800998ecf8427e
+            [user_id] => 62
+            [refresh_token] => d5dba85c00376e1a0037507a0000003e00000311f79c82db6a48b972c2cc4ca1b378a4
+            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:03:19
+ImBot send data
+Array
+(
+    [URL] => https://b24-9bd55y.bitrix24.ru/rest/imbot.message.add
+    [PARAMS] => Array
+        (
+            [DIALOG_ID] => chat100
+            [MESSAGE] => Напиши, пожалуйста, имя и фамилию, чтобы я могла представить тебя сотрудникам "Стройландия". Например Иванов Иван
+            [auth] => e55c815c00376e1a0037507a0000003e0000030a5a247eecfdf9856bbd792ebcb243b1
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:03:31
+ImBot Event Query
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [22] => Array
+                        (
+                            [domain] => b24-9bd55y.bitrix24.ru
+                            [member_id] => 94baa03fab636214a4e31bff75b2380c
+                            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-9bd55y.bitrix24.ru
+                                    [member_id] => 94baa03fab636214a4e31bff75b2380c
+                                    [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                                )
+
+                            [BOT_ID] => 22
+                            [BOT_CODE] => itrbot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 62
+                    [MESSAGE] => Кисленко Евгений
+                    [TO_CHAT_ID] => 100
+                    [MESSAGE_TYPE] => L
+                    [SKIP_COMMAND] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [SILENT_CONNECTOR] => N
+                    [AUTHOR_ID] => 62
+                    [CHAT_ID] => 100
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => livechat|2|98|62
+                    [CHAT_ENTITY_DATA_1] => N|NONE|0|N|N|44|1551977419
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [MESSAGE_ORIGINAL] => Кисленко Евгений
+                    [TO_USER_ID] => 0
+                    [DIALOG_ID] => chat100
+                    [MESSAGE_ID] => 1778
+                    [CHAT_TYPE] => L
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 62
+                    [NAME] => Гость
+                    [FIRST_NAME] => Гость
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1551978210
+    [auth] => Array
+        (
+            [access_token] => f25c815c00376e1a0037507a0000003e000003692d40981c7b366c6ca1eb0f1de72e03
+            [expires] => 1551981810
+            [expires_in] => 3600
+            [scope] => imbot,imopenlines
+            [domain] => b24-9bd55y.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-9bd55y.bitrix24.ru/rest/
+            [member_id] => d41d8cd98f00b204e9800998ecf8427e
+            [user_id] => 62
+            [refresh_token] => e2dba85c00376e1a0037507a0000003e0000037a740495934925b9451ed75740b6a9ca
+            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:03:31
+ImBot send data
+Array
+(
+    [URL] => https://b24-9bd55y.bitrix24.ru/rest/imbot.message.add
+    [PARAMS] => Array
+        (
+            [DIALOG_ID] => chat100
+            [MESSAGE] => Я правильно поняла что Вас зовут Кисленко Евгений[br] [send=1]1.Да[/send][br][send=2]2.Нет, в имени ошибка[/send] 
+            [auth] => f25c815c00376e1a0037507a0000003e000003692d40981c7b366c6ca1eb0f1de72e03
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:03:36
+ImBot Event Query
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [22] => Array
+                        (
+                            [domain] => b24-9bd55y.bitrix24.ru
+                            [member_id] => 94baa03fab636214a4e31bff75b2380c
+                            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-9bd55y.bitrix24.ru
+                                    [member_id] => 94baa03fab636214a4e31bff75b2380c
+                                    [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                                )
+
+                            [BOT_ID] => 22
+                            [BOT_CODE] => itrbot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 62
+                    [MESSAGE] => 1
+                    [TO_CHAT_ID] => 100
+                    [MESSAGE_TYPE] => L
+                    [SKIP_COMMAND] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [SILENT_CONNECTOR] => N
+                    [AUTHOR_ID] => 62
+                    [CHAT_ID] => 100
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => livechat|2|98|62
+                    [CHAT_ENTITY_DATA_1] => N|NONE|0|N|N|44|1551977419
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [MESSAGE_ORIGINAL] => 1
+                    [TO_USER_ID] => 0
+                    [DIALOG_ID] => chat100
+                    [MESSAGE_ID] => 1786
+                    [CHAT_TYPE] => L
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 62
+                    [NAME] => Гость
+                    [FIRST_NAME] => Гость
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1551978215
+    [auth] => Array
+        (
+            [access_token] => f75c815c00376e1a0037507a0000003e000003a952d4f1e8bf96be425d0b8bf117e5d2
+            [expires] => 1551981815
+            [expires_in] => 3600
+            [scope] => imbot,imopenlines
+            [domain] => b24-9bd55y.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-9bd55y.bitrix24.ru/rest/
+            [member_id] => d41d8cd98f00b204e9800998ecf8427e
+            [user_id] => 62
+            [refresh_token] => e7dba85c00376e1a0037507a0000003e0000034939ab16dbce172b00a531082f63056f
+            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:03:36
+ImBot send data
+Array
+(
+    [URL] => https://b24-9bd55y.bitrix24.ru/rest/imbot.message.add
+    [PARAMS] => Array
+        (
+            [DIALOG_ID] => chat100
+            [MESSAGE] => Евгений введи свой номер телефона, чтобы быть на связи. Формат телефона:[br] +7 (_ _ _ )_ _ _ _ _ _ _
+            [auth] => f75c815c00376e1a0037507a0000003e000003a952d4f1e8bf96be425d0b8bf117e5d2
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:03:48
+ImBot Event Query
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [22] => Array
+                        (
+                            [domain] => b24-9bd55y.bitrix24.ru
+                            [member_id] => 94baa03fab636214a4e31bff75b2380c
+                            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-9bd55y.bitrix24.ru
+                                    [member_id] => 94baa03fab636214a4e31bff75b2380c
+                                    [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                                )
+
+                            [BOT_ID] => 22
+                            [BOT_CODE] => itrbot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 62
+                    [MESSAGE] => +79880016681
+                    [TO_CHAT_ID] => 100
+                    [MESSAGE_TYPE] => L
+                    [SKIP_COMMAND] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [SILENT_CONNECTOR] => N
+                    [AUTHOR_ID] => 62
+                    [CHAT_ID] => 100
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => livechat|2|98|62
+                    [CHAT_ENTITY_DATA_1] => N|NONE|0|N|N|44|1551977419
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [MESSAGE_ORIGINAL] => +79880016681
+                    [TO_USER_ID] => 0
+                    [DIALOG_ID] => chat100
+                    [MESSAGE_ID] => 1794
+                    [CHAT_TYPE] => L
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 62
+                    [NAME] => Гость
+                    [FIRST_NAME] => Гость
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1551978226
+    [auth] => Array
+        (
+            [access_token] => 035d815c00376e1a0037507a0000003e000003b3e60b0b4e2c1481df08f9c945dcf3ca
+            [expires] => 1551981827
+            [expires_in] => 3600
+            [scope] => imbot,imopenlines
+            [domain] => b24-9bd55y.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-9bd55y.bitrix24.ru/rest/
+            [member_id] => d41d8cd98f00b204e9800998ecf8427e
+            [user_id] => 62
+            [refresh_token] => f3dba85c00376e1a0037507a0000003e000003a5202e4f8c998f4d3d6f80b780d639d2
+            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:03:48
+ImBot send data
+Array
+(
+    [URL] => https://b24-9bd55y.bitrix24.ru/rest/imbot.message.add
+    [PARAMS] => Array
+        (
+            [DIALOG_ID] => chat100
+            [MESSAGE] => Проверьте правильно ли набран номер: +79880016681[br] [send=1]1.Да[/send][br][send=2]2.Нет, в номере ошибка[/send] 
+            [auth] => 035d815c00376e1a0037507a0000003e000003b3e60b0b4e2c1481df08f9c945dcf3ca
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:03:53
+ImBot Event Query
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [22] => Array
+                        (
+                            [domain] => b24-9bd55y.bitrix24.ru
+                            [member_id] => 94baa03fab636214a4e31bff75b2380c
+                            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-9bd55y.bitrix24.ru
+                                    [member_id] => 94baa03fab636214a4e31bff75b2380c
+                                    [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                                )
+
+                            [BOT_ID] => 22
+                            [BOT_CODE] => itrbot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 62
+                    [MESSAGE] => 1
+                    [TO_CHAT_ID] => 100
+                    [MESSAGE_TYPE] => L
+                    [SKIP_COMMAND] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [SILENT_CONNECTOR] => N
+                    [AUTHOR_ID] => 62
+                    [CHAT_ID] => 100
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => livechat|2|98|62
+                    [CHAT_ENTITY_DATA_1] => N|NONE|0|N|N|44|1551977419
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [MESSAGE_ORIGINAL] => 1
+                    [TO_USER_ID] => 0
+                    [DIALOG_ID] => chat100
+                    [MESSAGE_ID] => 1802
+                    [CHAT_TYPE] => L
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 62
+                    [NAME] => Гость
+                    [FIRST_NAME] => Гость
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1551978231
+    [auth] => Array
+        (
+            [access_token] => 085d815c00376e1a0037507a0000003e000003c2e612da92d258a4784194622a09407b
+            [expires] => 1551981832
+            [expires_in] => 3600
+            [scope] => imbot,imopenlines
+            [domain] => b24-9bd55y.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-9bd55y.bitrix24.ru/rest/
+            [member_id] => d41d8cd98f00b204e9800998ecf8427e
+            [user_id] => 62
+            [refresh_token] => f8dba85c00376e1a0037507a0000003e000003971ec28930050bd190586700e748687b
+            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:03:53
+ImBot send data
+Array
+(
+    [URL] => https://b24-9bd55y.bitrix24.ru/rest/imbot.message.add
+    [PARAMS] => Array
+        (
+            [DIALOG_ID] => chat100
+            [MESSAGE] => Пожалуйста, Евгений напиши номер города, в котором ты ищешь работу:[br][send=1]1.Оренбург[/send][br][send=2]2.Уфа[/send][br][send=3]3.Липецк[/send][br][send=4]4.Ижевск[/send]
+            [auth] => 085d815c00376e1a0037507a0000003e000003c2e612da92d258a4784194622a09407b
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:04:05
+ImBot Event Query
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [22] => Array
+                        (
+                            [domain] => b24-9bd55y.bitrix24.ru
+                            [member_id] => 94baa03fab636214a4e31bff75b2380c
+                            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-9bd55y.bitrix24.ru
+                                    [member_id] => 94baa03fab636214a4e31bff75b2380c
+                                    [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                                )
+
+                            [BOT_ID] => 22
+                            [BOT_CODE] => itrbot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 62
+                    [MESSAGE] => пр
+                    [TO_CHAT_ID] => 100
+                    [MESSAGE_TYPE] => L
+                    [SKIP_COMMAND] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [SILENT_CONNECTOR] => N
+                    [AUTHOR_ID] => 62
+                    [CHAT_ID] => 100
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => livechat|2|98|62
+                    [CHAT_ENTITY_DATA_1] => N|NONE|0|N|N|44|1551977419
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [MESSAGE_ORIGINAL] => пр
+                    [TO_USER_ID] => 0
+                    [DIALOG_ID] => chat100
+                    [MESSAGE_ID] => 1810
+                    [CHAT_TYPE] => L
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 62
+                    [NAME] => Гость
+                    [FIRST_NAME] => Гость
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1551978243
+    [auth] => Array
+        (
+            [access_token] => 135d815c00376e1a0037507a0000003e00000335471133ec336dc989cd5b975ed04f62
+            [expires] => 1551981843
+            [expires_in] => 3600
+            [scope] => imbot,imopenlines
+            [domain] => b24-9bd55y.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-9bd55y.bitrix24.ru/rest/
+            [member_id] => d41d8cd98f00b204e9800998ecf8427e
+            [user_id] => 62
+            [refresh_token] => 03dca85c00376e1a0037507a0000003e000003618925dce7149622b55fc558007de5f9
+            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:04:05
+ImBot send data
+Array
+(
+    [URL] => https://b24-9bd55y.bitrix24.ru/rest/imbot.message.add
+    [PARAMS] => Array
+        (
+            [DIALOG_ID] => chat100
+            [MESSAGE] => Пожалуйста, Евгений напиши номер города, в котором ты ищешь работу:[br][send=1]1.Оренбург[/send][br][send=2]2.Уфа[/send][br][send=3]3.Липецк[/send][br][send=4]4.Ижевск[/send][br][send=5]5.Белгород[/send][br][send=6]6.Старый Оскол[/send][br][send=7]7.Саратов[/send][br][send=8]8.Энгельс[/send][br][send=9]9.Балаково[/send][br][send=10]10.Нижнекамск[/send][br][send=11]11.Альметьевск[/send][br][send=12]12.Лениногорск[/send][br][send=13]13.Набережные Челны[/send][br][send=14]14.Чебоксары[/send][br][send=15]15.Новочебоксарск[/send][br][send=16]16.Орск[/send][br][send=17]17.Бузулук[/send][br][send=18]18.Новотроицк[/send][br][send=19]19.Стерлитамак[/send][br][send=10]20.Нефтекамск[/send][br][send=21]21.Салават[/send][br][send=22]22.Ишимбай[/send][br][send=23]23.Мелеуз[/send][br][send=24]24.Октябрьский[/send][br][send=25]25.Туймазы[/send]
+            [auth] => 135d815c00376e1a0037507a0000003e00000335471133ec336dc989cd5b975ed04f62
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:05:43
+ImBot Event Query
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [22] => Array
+                        (
+                            [domain] => b24-9bd55y.bitrix24.ru
+                            [member_id] => 94baa03fab636214a4e31bff75b2380c
+                            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-9bd55y.bitrix24.ru
+                                    [member_id] => 94baa03fab636214a4e31bff75b2380c
+                                    [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                                )
+
+                            [BOT_ID] => 22
+                            [BOT_CODE] => itrbot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 62
+                    [MESSAGE] => 15
+                    [TO_CHAT_ID] => 100
+                    [MESSAGE_TYPE] => L
+                    [SKIP_COMMAND] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [SILENT_CONNECTOR] => N
+                    [AUTHOR_ID] => 62
+                    [CHAT_ID] => 100
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => livechat|2|98|62
+                    [CHAT_ENTITY_DATA_1] => N|NONE|0|N|N|44|1551977419
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [MESSAGE_ORIGINAL] => 15
+                    [TO_USER_ID] => 0
+                    [DIALOG_ID] => chat100
+                    [MESSAGE_ID] => 1822
+                    [CHAT_TYPE] => L
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 62
+                    [NAME] => Гость
+                    [FIRST_NAME] => Гость
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1551978341
+    [auth] => Array
+        (
+            [access_token] => 765d815c00376e1a0037507a0000003e000003f96b3d74603131f36546521bf6fde81d
+            [expires] => 1551981942
+            [expires_in] => 3600
+            [scope] => imbot,imopenlines
+            [domain] => b24-9bd55y.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-9bd55y.bitrix24.ru/rest/
+            [member_id] => d41d8cd98f00b204e9800998ecf8427e
+            [user_id] => 62
+            [refresh_token] => 66dca85c00376e1a0037507a0000003e000003af856c6e4ba354ac3279ecc6de7144fc
+            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:05:43
+ImBot send data
+Array
+(
+    [URL] => https://b24-9bd55y.bitrix24.ru/rest/imbot.message.add
+    [PARAMS] => Array
+        (
+            [DIALOG_ID] => chat100
+            [MESSAGE] => Какое у Тебя гражданство?[br][send=1]1.Российская федерация[/send][br][send=2]2.Другое[/send]
+            [auth] => 765d815c00376e1a0037507a0000003e000003f96b3d74603131f36546521bf6fde81d
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:05:50
+ImBot Event Query
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [22] => Array
+                        (
+                            [domain] => b24-9bd55y.bitrix24.ru
+                            [member_id] => 94baa03fab636214a4e31bff75b2380c
+                            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-9bd55y.bitrix24.ru
+                                    [member_id] => 94baa03fab636214a4e31bff75b2380c
+                                    [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                                )
+
+                            [BOT_ID] => 22
+                            [BOT_CODE] => itrbot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 62
+                    [MESSAGE] => 1
+                    [TO_CHAT_ID] => 100
+                    [MESSAGE_TYPE] => L
+                    [SKIP_COMMAND] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [SILENT_CONNECTOR] => N
+                    [AUTHOR_ID] => 62
+                    [CHAT_ID] => 100
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => livechat|2|98|62
+                    [CHAT_ENTITY_DATA_1] => N|NONE|0|N|N|44|1551977419
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [MESSAGE_ORIGINAL] => 1
+                    [TO_USER_ID] => 0
+                    [DIALOG_ID] => chat100
+                    [MESSAGE_ID] => 1830
+                    [CHAT_TYPE] => L
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 62
+                    [NAME] => Гость
+                    [FIRST_NAME] => Гость
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1551978348
+    [auth] => Array
+        (
+            [access_token] => 7d5d815c00376e1a0037507a0000003e0000036325d1f25d9b82db410abef69c5fb2d6
+            [expires] => 1551981949
+            [expires_in] => 3600
+            [scope] => imbot,imopenlines
+            [domain] => b24-9bd55y.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-9bd55y.bitrix24.ru/rest/
+            [member_id] => d41d8cd98f00b204e9800998ecf8427e
+            [user_id] => 62
+            [refresh_token] => 6ddca85c00376e1a0037507a0000003e000003647fdbcaa26ede6e11bca5414b3deed3
+            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:05:50
+ImBot send data
+Array
+(
+    [URL] => https://b24-9bd55y.bitrix24.ru/rest/imbot.message.add
+    [PARAMS] => Array
+        (
+            [DIALOG_ID] => chat100
+            [MESSAGE] => Вы не ошиблись и у Вас действительно Российское гражданство?[br][send=Да]Да действительно[/send][br][send=Нет]Нет ошибся[/send]
+            [auth] => 7d5d815c00376e1a0037507a0000003e0000036325d1f25d9b82db410abef69c5fb2d6
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:05:57
+ImBot Event Query
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [22] => Array
+                        (
+                            [domain] => b24-9bd55y.bitrix24.ru
+                            [member_id] => 94baa03fab636214a4e31bff75b2380c
+                            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-9bd55y.bitrix24.ru
+                                    [member_id] => 94baa03fab636214a4e31bff75b2380c
+                                    [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                                )
+
+                            [BOT_ID] => 22
+                            [BOT_CODE] => itrbot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 62
+                    [MESSAGE] => Да
+                    [TO_CHAT_ID] => 100
+                    [MESSAGE_TYPE] => L
+                    [SKIP_COMMAND] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [SILENT_CONNECTOR] => N
+                    [AUTHOR_ID] => 62
+                    [CHAT_ID] => 100
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => livechat|2|98|62
+                    [CHAT_ENTITY_DATA_1] => N|NONE|0|N|N|44|1551977419
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [MESSAGE_ORIGINAL] => Да
+                    [TO_USER_ID] => 0
+                    [DIALOG_ID] => chat100
+                    [MESSAGE_ID] => 1838
+                    [CHAT_TYPE] => L
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 62
+                    [NAME] => Гость
+                    [FIRST_NAME] => Гость
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1551978355
+    [auth] => Array
+        (
+            [access_token] => 845d815c00376e1a0037507a0000003e000003b1749273f9dc30d97fba80849032908a
+            [expires] => 1551981956
+            [expires_in] => 3600
+            [scope] => imbot,imopenlines
+            [domain] => b24-9bd55y.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-9bd55y.bitrix24.ru/rest/
+            [member_id] => d41d8cd98f00b204e9800998ecf8427e
+            [user_id] => 62
+            [refresh_token] => 74dca85c00376e1a0037507a0000003e0000031706b8b6f3ef9b4ea6be4c22766f431b
+            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:05:57
+ImBot send data
+Array
+(
+    [URL] => https://b24-9bd55y.bitrix24.ru/rest/imbot.message.add
+    [PARAMS] => Array
+        (
+            [DIALOG_ID] => chat100
+            [MESSAGE] => Сколько Тебе лет? Напиши, пожалуйста, цифрой
+            [auth] => 845d815c00376e1a0037507a0000003e000003b1749273f9dc30d97fba80849032908a
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:06:15
+ImBot Event Query
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [22] => Array
+                        (
+                            [domain] => b24-9bd55y.bitrix24.ru
+                            [member_id] => 94baa03fab636214a4e31bff75b2380c
+                            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-9bd55y.bitrix24.ru
+                                    [member_id] => 94baa03fab636214a4e31bff75b2380c
+                                    [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                                )
+
+                            [BOT_ID] => 22
+                            [BOT_CODE] => itrbot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 62
+                    [MESSAGE] => 52
+                    [TO_CHAT_ID] => 100
+                    [MESSAGE_TYPE] => L
+                    [SKIP_COMMAND] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [SILENT_CONNECTOR] => N
+                    [AUTHOR_ID] => 62
+                    [CHAT_ID] => 100
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => livechat|2|98|62
+                    [CHAT_ENTITY_DATA_1] => N|NONE|0|N|N|44|1551977419
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [MESSAGE_ORIGINAL] => 52
+                    [TO_USER_ID] => 0
+                    [DIALOG_ID] => chat100
+                    [MESSAGE_ID] => 1846
+                    [CHAT_TYPE] => L
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 62
+                    [NAME] => Гость
+                    [FIRST_NAME] => Гость
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1551978373
+    [auth] => Array
+        (
+            [access_token] => 965d815c00376e1a0037507a0000003e000003546fc0712c5fb666868aa8fc7d0c216b
+            [expires] => 1551981974
+            [expires_in] => 3600
+            [scope] => imbot,imopenlines
+            [domain] => b24-9bd55y.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-9bd55y.bitrix24.ru/rest/
+            [member_id] => d41d8cd98f00b204e9800998ecf8427e
+            [user_id] => 62
+            [refresh_token] => 86dca85c00376e1a0037507a0000003e00000341c57528eeb9b5d8c7eb3b1d40f5563d
+            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:06:15
+ImBot send data
+Array
+(
+    [URL] => https://b24-9bd55y.bitrix24.ru/rest/imbot.message.add
+    [PARAMS] => Array
+        (
+            [DIALOG_ID] => chat100
+            [MESSAGE] => Вам действительно 52 лет?[br] [send=Да]Да[/send][br][send=Нет]Ой, ошибся[/send] 
+            [auth] => 965d815c00376e1a0037507a0000003e000003546fc0712c5fb666868aa8fc7d0c216b
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:06:20
+ImBot Event Query
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [22] => Array
+                        (
+                            [domain] => b24-9bd55y.bitrix24.ru
+                            [member_id] => 94baa03fab636214a4e31bff75b2380c
+                            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-9bd55y.bitrix24.ru
+                                    [member_id] => 94baa03fab636214a4e31bff75b2380c
+                                    [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                                )
+
+                            [BOT_ID] => 22
+                            [BOT_CODE] => itrbot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 62
+                    [MESSAGE] => Да
+                    [TO_CHAT_ID] => 100
+                    [MESSAGE_TYPE] => L
+                    [SKIP_COMMAND] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [SILENT_CONNECTOR] => N
+                    [AUTHOR_ID] => 62
+                    [CHAT_ID] => 100
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => livechat|2|98|62
+                    [CHAT_ENTITY_DATA_1] => N|NONE|0|N|N|44|1551977419
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [MESSAGE_ORIGINAL] => Да
+                    [TO_USER_ID] => 0
+                    [DIALOG_ID] => chat100
+                    [MESSAGE_ID] => 1854
+                    [CHAT_TYPE] => L
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 62
+                    [NAME] => Гость
+                    [FIRST_NAME] => Гость
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1551978378
+    [auth] => Array
+        (
+            [access_token] => 9b5d815c00376e1a0037507a0000003e0000032bd3aca0668d01e017b21d21fb93b147
+            [expires] => 1551981979
+            [expires_in] => 3600
+            [scope] => imbot,imopenlines
+            [domain] => b24-9bd55y.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-9bd55y.bitrix24.ru/rest/
+            [member_id] => d41d8cd98f00b204e9800998ecf8427e
+            [user_id] => 62
+            [refresh_token] => 8bdca85c00376e1a0037507a0000003e00000343ec962b38f1cbfdb3a243f1b1cf41e2
+            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:06:20
+ImBot send data
+Array
+(
+    [URL] => https://b24-9bd55y.bitrix24.ru/rest/imbot.message.add
+    [PARAMS] => Array
+        (
+            [DIALOG_ID] => chat100
+            [MESSAGE] => Что в работе для Тебя важнее всего, укажи цифру (выбрать можно только один вариант):[br][send=1]1.Коллектив[/send][br][send=2]2.Заработная плата[/send][br][send=3]3.График[/send][br][send=4]4.Карьерный рост[/send][br][send=5]5.Хорошие условия труда[/send][br][send=6]6.Похвала со стороны руководства[/send][br][send=7]7.Имидж компании[/send]
+            [auth] => 9b5d815c00376e1a0037507a0000003e0000032bd3aca0668d01e017b21d21fb93b147
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:06:26
+ImBot Event Query
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [22] => Array
+                        (
+                            [domain] => b24-9bd55y.bitrix24.ru
+                            [member_id] => 94baa03fab636214a4e31bff75b2380c
+                            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-9bd55y.bitrix24.ru
+                                    [member_id] => 94baa03fab636214a4e31bff75b2380c
+                                    [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                                )
+
+                            [BOT_ID] => 22
+                            [BOT_CODE] => itrbot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 62
+                    [MESSAGE] => 2
+                    [TO_CHAT_ID] => 100
+                    [MESSAGE_TYPE] => L
+                    [SKIP_COMMAND] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [SILENT_CONNECTOR] => N
+                    [AUTHOR_ID] => 62
+                    [CHAT_ID] => 100
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => livechat|2|98|62
+                    [CHAT_ENTITY_DATA_1] => N|NONE|0|N|N|44|1551977419
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [MESSAGE_ORIGINAL] => 2
+                    [TO_USER_ID] => 0
+                    [DIALOG_ID] => chat100
+                    [MESSAGE_ID] => 1862
+                    [CHAT_TYPE] => L
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 62
+                    [NAME] => Гость
+                    [FIRST_NAME] => Гость
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1551978384
+    [auth] => Array
+        (
+            [access_token] => a15d815c00376e1a0037507a0000003e0000031422f142fcd17094c44040bef3af430b
+            [expires] => 1551981985
+            [expires_in] => 3600
+            [scope] => imbot,imopenlines
+            [domain] => b24-9bd55y.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-9bd55y.bitrix24.ru/rest/
+            [member_id] => d41d8cd98f00b204e9800998ecf8427e
+            [user_id] => 62
+            [refresh_token] => 91dca85c00376e1a0037507a0000003e0000032941f7a9eb13678b7132114e6eb21f59
+            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:06:26
+ImBot send data
+Array
+(
+    [URL] => https://b24-9bd55y.bitrix24.ru/rest/imbot.message.add
+    [PARAMS] => Array
+        (
+            [DIALOG_ID] => chat100
+            [MESSAGE] => На какую заработную плату Ты рассчитываешь? Напиши, пожалуйста, сумму
+            [auth] => a15d815c00376e1a0037507a0000003e0000031422f142fcd17094c44040bef3af430b
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:06:33
+ImBot Event Query
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [22] => Array
+                        (
+                            [domain] => b24-9bd55y.bitrix24.ru
+                            [member_id] => 94baa03fab636214a4e31bff75b2380c
+                            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-9bd55y.bitrix24.ru
+                                    [member_id] => 94baa03fab636214a4e31bff75b2380c
+                                    [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                                )
+
+                            [BOT_ID] => 22
+                            [BOT_CODE] => itrbot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 62
+                    [MESSAGE] => 10000
+                    [TO_CHAT_ID] => 100
+                    [MESSAGE_TYPE] => L
+                    [SKIP_COMMAND] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [SILENT_CONNECTOR] => N
+                    [AUTHOR_ID] => 62
+                    [CHAT_ID] => 100
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => livechat|2|98|62
+                    [CHAT_ENTITY_DATA_1] => N|NONE|0|N|N|44|1551977419
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [MESSAGE_ORIGINAL] => 10000
+                    [TO_USER_ID] => 0
+                    [DIALOG_ID] => chat100
+                    [MESSAGE_ID] => 1870
+                    [CHAT_TYPE] => L
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 62
+                    [NAME] => Гость
+                    [FIRST_NAME] => Гость
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1551978391
+    [auth] => Array
+        (
+            [access_token] => a75d815c00376e1a0037507a0000003e0000031fff47e55e52ab08c72a046ad821e0f0
+            [expires] => 1551981991
+            [expires_in] => 3600
+            [scope] => imbot,imopenlines
+            [domain] => b24-9bd55y.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-9bd55y.bitrix24.ru/rest/
+            [member_id] => d41d8cd98f00b204e9800998ecf8427e
+            [user_id] => 62
+            [refresh_token] => 97dca85c00376e1a0037507a0000003e000003575174556ec55d52b9f1768d84ce18d0
+            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:06:33
+ImBot send data
+Array
+(
+    [URL] => https://b24-9bd55y.bitrix24.ru/rest/imbot.message.add
+    [PARAMS] => Array
+        (
+            [DIALOG_ID] => chat100
+            [MESSAGE] => Почему Ты хочешь работать в "Стройландии"?
+            [auth] => a75d815c00376e1a0037507a0000003e0000031fff47e55e52ab08c72a046ad821e0f0
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:06:49
+ImBot Event Query
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [22] => Array
+                        (
+                            [domain] => b24-9bd55y.bitrix24.ru
+                            [member_id] => 94baa03fab636214a4e31bff75b2380c
+                            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-9bd55y.bitrix24.ru
+                                    [member_id] => 94baa03fab636214a4e31bff75b2380c
+                                    [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                                )
+
+                            [BOT_ID] => 22
+                            [BOT_CODE] => itrbot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 62
+                    [MESSAGE] => баста
+                    [TO_CHAT_ID] => 100
+                    [MESSAGE_TYPE] => L
+                    [SKIP_COMMAND] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [SILENT_CONNECTOR] => N
+                    [AUTHOR_ID] => 62
+                    [CHAT_ID] => 100
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => livechat|2|98|62
+                    [CHAT_ENTITY_DATA_1] => N|NONE|0|N|N|44|1551977419
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [MESSAGE_ORIGINAL] => баста
+                    [TO_USER_ID] => 0
+                    [DIALOG_ID] => chat100
+                    [MESSAGE_ID] => 1878
+                    [CHAT_TYPE] => L
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 62
+                    [NAME] => Гость
+                    [FIRST_NAME] => Гость
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1551978407
+    [auth] => Array
+        (
+            [access_token] => b85d815c00376e1a0037507a0000003e00000322414d54eb735d1e507027e88680dc52
+            [expires] => 1551982008
+            [expires_in] => 3600
+            [scope] => imbot,imopenlines
+            [domain] => b24-9bd55y.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-9bd55y.bitrix24.ru/rest/
+            [member_id] => d41d8cd98f00b204e9800998ecf8427e
+            [user_id] => 62
+            [refresh_token] => a8dca85c00376e1a0037507a0000003e00000369384722d59526dd5aa779a2b198513f
+            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:06:49
+ImBot send data
+Array
+(
+    [URL] => https://b24-9bd55y.bitrix24.ru/rest/imbot.message.add
+    [PARAMS] => Array
+        (
+            [DIALOG_ID] => chat100
+            [MESSAGE] => Отлично, Евгений! Первый шаг к успешной карьере в "Стройландия" сделан! Будь на связи, наш специалист свяжется с тобой в течении 3-х дней и пригласит на собеседование к директору магазина.
+            [auth] => b85d815c00376e1a0037507a0000003e00000322414d54eb735d1e507027e88680dc52
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:06:49
+ImBot send data
+Array
+(
+    [URL] => https://b24-9bd55y.bitrix24.ru/rest/imbot.message.add
+    [PARAMS] => Array
+        (
+            [DIALOG_ID] => chat100
+            [MESSAGE] => Отлично, Евгений! Первый шаг к успешной карьере в "Стройландия" сделан! Будь на связи, наш специалист свяжется с тобой в течении 3-х дней и пригласит на собеседование к директору магазина.
+            [auth] => b85d815c00376e1a0037507a0000003e00000322414d54eb735d1e507027e88680dc52
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:09:32
+ImBot Event Query
+Array
+(
+    [event] => ONIMBOTJOINCHAT
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [22] => Array
+                        (
+                            [domain] => b24-9bd55y.bitrix24.ru
+                            [member_id] => 94baa03fab636214a4e31bff75b2380c
+                            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-9bd55y.bitrix24.ru
+                                    [member_id] => 94baa03fab636214a4e31bff75b2380c
+                                    [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                                )
+
+                            [BOT_ID] => 22
+                            [BOT_CODE] => itrbot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [CHAT_TYPE] => L
+                    [MESSAGE_TYPE] => L
+                    [BOT_ID] => 22
+                    [USER_ID] => 0
+                    [CHAT_ID] => 104
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => livechat|2|102|64
+                    [ACCESS_HISTORY] => 1
+                    [DIALOG_ID] => chat104
+                    [LANGUAGE] => ru
+                )
+
+        )
+
+    [ts] => 1551978571
+    [auth] => Array
+        (
+            [access_token] => 5b5e815c00376e1a0037507a000000400000034d5e6a0db8e7f3b94a6eef8e0a3531af
+            [expires] => 1551982171
+            [expires_in] => 3600
+            [scope] => imbot,imopenlines
+            [domain] => b24-9bd55y.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-9bd55y.bitrix24.ru/rest/
+            [member_id] => d41d8cd98f00b204e9800998ecf8427e
+            [user_id] => 64
+            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:09:32
+ImBot Event Query
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [22] => Array
+                        (
+                            [domain] => b24-9bd55y.bitrix24.ru
+                            [member_id] => 94baa03fab636214a4e31bff75b2380c
+                            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-9bd55y.bitrix24.ru
+                                    [member_id] => 94baa03fab636214a4e31bff75b2380c
+                                    [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                                )
+
+                            [BOT_ID] => 22
+                            [BOT_CODE] => itrbot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 64
+                    [MESSAGE] => Привет
+                    [TO_CHAT_ID] => 104
+                    [MESSAGE_TYPE] => L
+                    [SKIP_COMMAND] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [SILENT_CONNECTOR] => N
+                    [AUTHOR_ID] => 64
+                    [CHAT_ID] => 104
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => livechat|2|102|64
+                    [CHAT_ENTITY_DATA_1] => N|NONE|0|N|N|46|1551978570
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [MESSAGE_ORIGINAL] => Привет
+                    [TO_USER_ID] => 0
+                    [DIALOG_ID] => chat104
+                    [MESSAGE_ID] => 1894
+                    [CHAT_TYPE] => L
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 64
+                    [NAME] => Гость
+                    [FIRST_NAME] => Гость
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1551978571
+    [auth] => Array
+        (
+            [access_token] => 5b5e815c00376e1a0037507a000000400000034d5e6a0db8e7f3b94a6eef8e0a3531af
+            [expires] => 1551982171
+            [expires_in] => 3600
+            [scope] => imbot,imopenlines
+            [domain] => b24-9bd55y.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-9bd55y.bitrix24.ru/rest/
+            [member_id] => d41d8cd98f00b204e9800998ecf8427e
+            [user_id] => 64
+            [refresh_token] => 4bdda85c00376e1a0037507a00000040000003d89de03dfd6d6d32d6f961bbb7c9bfe5
+            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:09:32
+ImBot send data
+Array
+(
+    [URL] => https://b24-9bd55y.bitrix24.ru/rest/imbot.message.add
+    [PARAMS] => Array
+        (
+            [DIALOG_ID] => chat104
+            [MESSAGE] => Привет, я Ольга, специалист по подбору персонала компании "Стройландия". Я помогу тебе найти работу в нашей компании.[br][send=Продолжить]Продолжить[/send]
+            [auth] => 5b5e815c00376e1a0037507a000000400000034d5e6a0db8e7f3b94a6eef8e0a3531af
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:13:38
+ImBot Event Query
+Array
+(
+    [event] => ONIMBOTJOINCHAT
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [22] => Array
+                        (
+                            [domain] => b24-9bd55y.bitrix24.ru
+                            [member_id] => 94baa03fab636214a4e31bff75b2380c
+                            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-9bd55y.bitrix24.ru
+                                    [member_id] => 94baa03fab636214a4e31bff75b2380c
+                                    [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                                )
+
+                            [BOT_ID] => 22
+                            [BOT_CODE] => itrbot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [CHAT_TYPE] => L
+                    [MESSAGE_TYPE] => L
+                    [BOT_ID] => 22
+                    [USER_ID] => 0
+                    [CHAT_ID] => 108
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => livechat|2|106|66
+                    [ACCESS_HISTORY] => 1
+                    [DIALOG_ID] => chat108
+                    [LANGUAGE] => ru
+                )
+
+        )
+
+    [ts] => 1551978817
+    [auth] => Array
+        (
+            [access_token] => 515f815c00376e1a0037507a0000004200000335918883ca281171a84d7f0ecc5d3a1f
+            [expires] => 1551982417
+            [expires_in] => 3600
+            [scope] => imbot,imopenlines
+            [domain] => b24-9bd55y.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-9bd55y.bitrix24.ru/rest/
+            [member_id] => d41d8cd98f00b204e9800998ecf8427e
+            [user_id] => 66
+            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:13:39
+ImBot Event Query
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [22] => Array
+                        (
+                            [domain] => b24-9bd55y.bitrix24.ru
+                            [member_id] => 94baa03fab636214a4e31bff75b2380c
+                            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-9bd55y.bitrix24.ru
+                                    [member_id] => 94baa03fab636214a4e31bff75b2380c
+                                    [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                                )
+
+                            [BOT_ID] => 22
+                            [BOT_CODE] => itrbot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 66
+                    [MESSAGE] => Привет
+                    [TO_CHAT_ID] => 108
+                    [MESSAGE_TYPE] => L
+                    [SKIP_COMMAND] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [SILENT_CONNECTOR] => N
+                    [AUTHOR_ID] => 66
+                    [CHAT_ID] => 108
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => livechat|2|106|66
+                    [CHAT_ENTITY_DATA_1] => N|NONE|0|N|N|48|1551978817
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [MESSAGE_ORIGINAL] => Привет
+                    [TO_USER_ID] => 0
+                    [DIALOG_ID] => chat108
+                    [MESSAGE_ID] => 1906
+                    [CHAT_TYPE] => L
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 66
+                    [NAME] => Гость
+                    [FIRST_NAME] => Гость
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1551978817
+    [auth] => Array
+        (
+            [access_token] => 515f815c00376e1a0037507a0000004200000335918883ca281171a84d7f0ecc5d3a1f
+            [expires] => 1551982417
+            [expires_in] => 3600
+            [scope] => imbot,imopenlines
+            [domain] => b24-9bd55y.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-9bd55y.bitrix24.ru/rest/
+            [member_id] => d41d8cd98f00b204e9800998ecf8427e
+            [user_id] => 66
+            [refresh_token] => 41dea85c00376e1a0037507a0000004200000389cf7b45901e150fc5f3be42c1a0de91
+            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:13:39
+ImBot send data
+Array
+(
+    [URL] => https://b24-9bd55y.bitrix24.ru/rest/imbot.message.add
+    [PARAMS] => Array
+        (
+            [DIALOG_ID] => chat108
+            [MESSAGE] => Привет, я Ольга, специалист по подбору персонала компании "Стройландия". Я помогу тебе найти работу в нашей компании.[br][send=Продолжить]Продолжить[/send]
+            [auth] => 515f815c00376e1a0037507a0000004200000335918883ca281171a84d7f0ecc5d3a1f
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:13:43
+ImBot Event Query
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [22] => Array
+                        (
+                            [domain] => b24-9bd55y.bitrix24.ru
+                            [member_id] => 94baa03fab636214a4e31bff75b2380c
+                            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-9bd55y.bitrix24.ru
+                                    [member_id] => 94baa03fab636214a4e31bff75b2380c
+                                    [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                                )
+
+                            [BOT_ID] => 22
+                            [BOT_CODE] => itrbot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 66
+                    [MESSAGE] => Продолжить
+                    [TO_CHAT_ID] => 108
+                    [MESSAGE_TYPE] => L
+                    [SKIP_COMMAND] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [SILENT_CONNECTOR] => N
+                    [AUTHOR_ID] => 66
+                    [CHAT_ID] => 108
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => livechat|2|106|66
+                    [CHAT_ENTITY_DATA_1] => N|NONE|0|N|N|48|1551978817
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [MESSAGE_ORIGINAL] => Продолжить
+                    [TO_USER_ID] => 0
+                    [DIALOG_ID] => chat108
+                    [MESSAGE_ID] => 1914
+                    [CHAT_TYPE] => L
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 66
+                    [NAME] => Гость
+                    [FIRST_NAME] => Гость
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1551978821
+    [auth] => Array
+        (
+            [access_token] => 565f815c00376e1a0037507a000000420000038dc9b6c138e0a9ffd8717fd003441762
+            [expires] => 1551982422
+            [expires_in] => 3600
+            [scope] => imbot,imopenlines
+            [domain] => b24-9bd55y.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-9bd55y.bitrix24.ru/rest/
+            [member_id] => d41d8cd98f00b204e9800998ecf8427e
+            [user_id] => 66
+            [refresh_token] => 46dea85c00376e1a0037507a0000004200000358613719f734ccaa1be6f3aa3227c3eb
+            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:13:43
+ImBot send data
+Array
+(
+    [URL] => https://b24-9bd55y.bitrix24.ru/rest/imbot.message.add
+    [PARAMS] => Array
+        (
+            [DIALOG_ID] => chat108
+            [MESSAGE] => Вы хотите подобрать подходящую вакансию или сначала подробнее узнать о компании?[br][send=Найти вакансии]Найти вакансии[/send][br][send=Информация о компании]Информация о компании[/send]
+            [auth] => 565f815c00376e1a0037507a000000420000038dc9b6c138e0a9ffd8717fd003441762
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:13:48
+ImBot Event Query
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [22] => Array
+                        (
+                            [domain] => b24-9bd55y.bitrix24.ru
+                            [member_id] => 94baa03fab636214a4e31bff75b2380c
+                            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-9bd55y.bitrix24.ru
+                                    [member_id] => 94baa03fab636214a4e31bff75b2380c
+                                    [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                                )
+
+                            [BOT_ID] => 22
+                            [BOT_CODE] => itrbot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 66
+                    [MESSAGE] => Найти вакансии
+                    [TO_CHAT_ID] => 108
+                    [MESSAGE_TYPE] => L
+                    [SKIP_COMMAND] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [SILENT_CONNECTOR] => N
+                    [AUTHOR_ID] => 66
+                    [CHAT_ID] => 108
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => livechat|2|106|66
+                    [CHAT_ENTITY_DATA_1] => N|NONE|0|N|N|48|1551978817
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [MESSAGE_ORIGINAL] => Найти вакансии
+                    [TO_USER_ID] => 0
+                    [DIALOG_ID] => chat108
+                    [MESSAGE_ID] => 1922
+                    [CHAT_TYPE] => L
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 66
+                    [NAME] => Гость
+                    [FIRST_NAME] => Гость
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1551978826
+    [auth] => Array
+        (
+            [access_token] => 5b5f815c00376e1a0037507a0000004200000330348297316ecf99ce8828bfc496f02a
+            [expires] => 1551982427
+            [expires_in] => 3600
+            [scope] => imbot,imopenlines
+            [domain] => b24-9bd55y.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-9bd55y.bitrix24.ru/rest/
+            [member_id] => d41d8cd98f00b204e9800998ecf8427e
+            [user_id] => 66
+            [refresh_token] => 4bdea85c00376e1a0037507a000000420000035b49588223b850f07e6d3f7e0b669d7d
+            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:13:48
+ImBot send data
+Array
+(
+    [URL] => https://b24-9bd55y.bitrix24.ru/rest/imbot.message.add
+    [PARAMS] => Array
+        (
+            [DIALOG_ID] => chat108
+            [MESSAGE] => Чтобы я могла помочь тебе найти подходящую вакансию, пожалуйста, напиши номер вакансии, которая тебя заинтересовала:[br][send=1]1.Продавец-консультант[/send][br][send=2]2.Оператор-кассир[/send][br][send=3]3.Грузчик-комплектовщик[/send][br][send=4]4.Кладовщик[/send][br][send=5]5.Нужной вакансии нет в списке[/send]
+            [auth] => 5b5f815c00376e1a0037507a0000004200000330348297316ecf99ce8828bfc496f02a
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:13:54
+ImBot Event Query
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [22] => Array
+                        (
+                            [domain] => b24-9bd55y.bitrix24.ru
+                            [member_id] => 94baa03fab636214a4e31bff75b2380c
+                            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-9bd55y.bitrix24.ru
+                                    [member_id] => 94baa03fab636214a4e31bff75b2380c
+                                    [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                                )
+
+                            [BOT_ID] => 22
+                            [BOT_CODE] => itrbot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 66
+                    [MESSAGE] => 4
+                    [TO_CHAT_ID] => 108
+                    [MESSAGE_TYPE] => L
+                    [SKIP_COMMAND] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [SILENT_CONNECTOR] => N
+                    [AUTHOR_ID] => 66
+                    [CHAT_ID] => 108
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => livechat|2|106|66
+                    [CHAT_ENTITY_DATA_1] => N|NONE|0|N|N|48|1551978817
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [MESSAGE_ORIGINAL] => 4
+                    [TO_USER_ID] => 0
+                    [DIALOG_ID] => chat108
+                    [MESSAGE_ID] => 1930
+                    [CHAT_TYPE] => L
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 66
+                    [NAME] => Гость
+                    [FIRST_NAME] => Гость
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1551978832
+    [auth] => Array
+        (
+            [access_token] => 615f815c00376e1a0037507a00000042000003b30bb95f804b816425e318fbdf6d9bd1
+            [expires] => 1551982433
+            [expires_in] => 3600
+            [scope] => imbot,imopenlines
+            [domain] => b24-9bd55y.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-9bd55y.bitrix24.ru/rest/
+            [member_id] => d41d8cd98f00b204e9800998ecf8427e
+            [user_id] => 66
+            [refresh_token] => 51dea85c00376e1a0037507a00000042000003857b18137aca9058e5cc30d6a7fbd98b
+            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:13:54
+ImBot send data
+Array
+(
+    [URL] => https://b24-9bd55y.bitrix24.ru/rest/imbot.message.add
+    [PARAMS] => Array
+        (
+            [DIALOG_ID] => chat108
+            [MESSAGE] => ГРУЗЧИК-КОМПЛЕКТОВЩИК[br]Итак, на позиции грузчика-комплектовщика Тебе предстоит:[br]- разгружать фуры с товаром (стройматериалы)[br]- помогать покупателям загружать товар в автомобиль[br]- сортировать и перемещать вручную товара на складе[br][send=Вакансия интересна]Вакансия интересна[/send][br][send=Назад]Назад[/send][br][send=Досвидания]Досвидания[/send]
+            [auth] => 615f815c00376e1a0037507a00000042000003b30bb95f804b816425e318fbdf6d9bd1
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:13:58
+ImBot Event Query
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [22] => Array
+                        (
+                            [domain] => b24-9bd55y.bitrix24.ru
+                            [member_id] => 94baa03fab636214a4e31bff75b2380c
+                            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-9bd55y.bitrix24.ru
+                                    [member_id] => 94baa03fab636214a4e31bff75b2380c
+                                    [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                                )
+
+                            [BOT_ID] => 22
+                            [BOT_CODE] => itrbot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 66
+                    [MESSAGE] => Вакансия интересна
+                    [TO_CHAT_ID] => 108
+                    [MESSAGE_TYPE] => L
+                    [SKIP_COMMAND] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [SILENT_CONNECTOR] => N
+                    [AUTHOR_ID] => 66
+                    [CHAT_ID] => 108
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => livechat|2|106|66
+                    [CHAT_ENTITY_DATA_1] => N|NONE|0|N|N|48|1551978817
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [MESSAGE_ORIGINAL] => Вакансия интересна
+                    [TO_USER_ID] => 0
+                    [DIALOG_ID] => chat108
+                    [MESSAGE_ID] => 1938
+                    [CHAT_TYPE] => L
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 66
+                    [NAME] => Гость
+                    [FIRST_NAME] => Гость
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1551978836
+    [auth] => Array
+        (
+            [access_token] => 655f815c00376e1a0037507a000000420000031501729193f8d8eb3a41e7a7f5429e15
+            [expires] => 1551982437
+            [expires_in] => 3600
+            [scope] => imbot,imopenlines
+            [domain] => b24-9bd55y.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-9bd55y.bitrix24.ru/rest/
+            [member_id] => d41d8cd98f00b204e9800998ecf8427e
+            [user_id] => 66
+            [refresh_token] => 55dea85c00376e1a0037507a00000042000003ce52a75f3f41e6e9a6a8c617873f32a8
+            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:13:58
+ImBot send data
+Array
+(
+    [URL] => https://b24-9bd55y.bitrix24.ru/rest/imbot.message.add
+    [PARAMS] => Array
+        (
+            [DIALOG_ID] => chat108
+            [MESSAGE] => Напиши, пожалуйста, имя и фамилию, чтобы я могла представить тебя сотрудникам "Стройландия". Например Иванов Иван
+            [auth] => 655f815c00376e1a0037507a000000420000031501729193f8d8eb3a41e7a7f5429e15
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:14:09
+ImBot Event Query
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [22] => Array
+                        (
+                            [domain] => b24-9bd55y.bitrix24.ru
+                            [member_id] => 94baa03fab636214a4e31bff75b2380c
+                            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-9bd55y.bitrix24.ru
+                                    [member_id] => 94baa03fab636214a4e31bff75b2380c
+                                    [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                                )
+
+                            [BOT_ID] => 22
+                            [BOT_CODE] => itrbot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 66
+                    [MESSAGE] => Кисленко Евгений
+                    [TO_CHAT_ID] => 108
+                    [MESSAGE_TYPE] => L
+                    [SKIP_COMMAND] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [SILENT_CONNECTOR] => N
+                    [AUTHOR_ID] => 66
+                    [CHAT_ID] => 108
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => livechat|2|106|66
+                    [CHAT_ENTITY_DATA_1] => N|NONE|0|N|N|48|1551978817
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [MESSAGE_ORIGINAL] => Кисленко Евгений
+                    [TO_USER_ID] => 0
+                    [DIALOG_ID] => chat108
+                    [MESSAGE_ID] => 1946
+                    [CHAT_TYPE] => L
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 66
+                    [NAME] => Гость
+                    [FIRST_NAME] => Гость
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1551978847
+    [auth] => Array
+        (
+            [access_token] => 6f5f815c00376e1a0037507a000000420000038ed8964ae6258e5d7f6abe2ae7b2d865
+            [expires] => 1551982447
+            [expires_in] => 3600
+            [scope] => imbot,imopenlines
+            [domain] => b24-9bd55y.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-9bd55y.bitrix24.ru/rest/
+            [member_id] => d41d8cd98f00b204e9800998ecf8427e
+            [user_id] => 66
+            [refresh_token] => 5fdea85c00376e1a0037507a00000042000003ae515c8b644c585ac12e252f736d5f17
+            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:14:09
+ImBot send data
+Array
+(
+    [URL] => https://b24-9bd55y.bitrix24.ru/rest/imbot.message.add
+    [PARAMS] => Array
+        (
+            [DIALOG_ID] => chat108
+            [MESSAGE] => Я правильно поняла что Вас зовут Кисленко Евгений[br] [send=1]1.Да[/send][br][send=2]2.Нет, в имени ошибка[/send] 
+            [auth] => 6f5f815c00376e1a0037507a000000420000038ed8964ae6258e5d7f6abe2ae7b2d865
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:14:15
+ImBot Event Query
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [22] => Array
+                        (
+                            [domain] => b24-9bd55y.bitrix24.ru
+                            [member_id] => 94baa03fab636214a4e31bff75b2380c
+                            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-9bd55y.bitrix24.ru
+                                    [member_id] => 94baa03fab636214a4e31bff75b2380c
+                                    [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                                )
+
+                            [BOT_ID] => 22
+                            [BOT_CODE] => itrbot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 66
+                    [MESSAGE] => 1
+                    [TO_CHAT_ID] => 108
+                    [MESSAGE_TYPE] => L
+                    [SKIP_COMMAND] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [SILENT_CONNECTOR] => N
+                    [AUTHOR_ID] => 66
+                    [CHAT_ID] => 108
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => livechat|2|106|66
+                    [CHAT_ENTITY_DATA_1] => N|NONE|0|N|N|48|1551978817
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [MESSAGE_ORIGINAL] => 1
+                    [TO_USER_ID] => 0
+                    [DIALOG_ID] => chat108
+                    [MESSAGE_ID] => 1954
+                    [CHAT_TYPE] => L
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 66
+                    [NAME] => Гость
+                    [FIRST_NAME] => Гость
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1551978852
+    [auth] => Array
+        (
+            [access_token] => 755f815c00376e1a0037507a00000042000003eea1bb04d9a120120bde6f76699a13f3
+            [expires] => 1551982453
+            [expires_in] => 3600
+            [scope] => imbot,imopenlines
+            [domain] => b24-9bd55y.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-9bd55y.bitrix24.ru/rest/
+            [member_id] => d41d8cd98f00b204e9800998ecf8427e
+            [user_id] => 66
+            [refresh_token] => 65dea85c00376e1a0037507a00000042000003cacde38d8e1e409ef8c58979c66152de
+            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:14:15
+ImBot send data
+Array
+(
+    [URL] => https://b24-9bd55y.bitrix24.ru/rest/imbot.message.add
+    [PARAMS] => Array
+        (
+            [DIALOG_ID] => chat108
+            [MESSAGE] => Евгений введи свой номер телефона, чтобы быть на связи. Формат телефона:[br] +7 (_ _ _ )_ _ _ _ _ _ _
+            [auth] => 755f815c00376e1a0037507a00000042000003eea1bb04d9a120120bde6f76699a13f3
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:14:24
+ImBot Event Query
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [22] => Array
+                        (
+                            [domain] => b24-9bd55y.bitrix24.ru
+                            [member_id] => 94baa03fab636214a4e31bff75b2380c
+                            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-9bd55y.bitrix24.ru
+                                    [member_id] => 94baa03fab636214a4e31bff75b2380c
+                                    [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                                )
+
+                            [BOT_ID] => 22
+                            [BOT_CODE] => itrbot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 66
+                    [MESSAGE] => +79880016681
+                    [TO_CHAT_ID] => 108
+                    [MESSAGE_TYPE] => L
+                    [SKIP_COMMAND] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [SILENT_CONNECTOR] => N
+                    [AUTHOR_ID] => 66
+                    [CHAT_ID] => 108
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => livechat|2|106|66
+                    [CHAT_ENTITY_DATA_1] => N|NONE|0|N|N|48|1551978817
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [MESSAGE_ORIGINAL] => +79880016681
+                    [TO_USER_ID] => 0
+                    [DIALOG_ID] => chat108
+                    [MESSAGE_ID] => 1962
+                    [CHAT_TYPE] => L
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 66
+                    [NAME] => Гость
+                    [FIRST_NAME] => Гость
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1551978862
+    [auth] => Array
+        (
+            [access_token] => 7f5f815c00376e1a0037507a00000042000003f2318dc1c207f3174a2aabf893d0383f
+            [expires] => 1551982463
+            [expires_in] => 3600
+            [scope] => imbot,imopenlines
+            [domain] => b24-9bd55y.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-9bd55y.bitrix24.ru/rest/
+            [member_id] => d41d8cd98f00b204e9800998ecf8427e
+            [user_id] => 66
+            [refresh_token] => 6fdea85c00376e1a0037507a00000042000003d54b4898dfa5da59fae42b8e84192530
+            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:14:24
+ImBot send data
+Array
+(
+    [URL] => https://b24-9bd55y.bitrix24.ru/rest/imbot.message.add
+    [PARAMS] => Array
+        (
+            [DIALOG_ID] => chat108
+            [MESSAGE] => Проверьте правильно ли набран номер: +79880016681[br] [send=1]1.Да[/send][br][send=2]2.Нет, в номере ошибка[/send] 
+            [auth] => 7f5f815c00376e1a0037507a00000042000003f2318dc1c207f3174a2aabf893d0383f
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:14:30
+ImBot Event Query
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [22] => Array
+                        (
+                            [domain] => b24-9bd55y.bitrix24.ru
+                            [member_id] => 94baa03fab636214a4e31bff75b2380c
+                            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-9bd55y.bitrix24.ru
+                                    [member_id] => 94baa03fab636214a4e31bff75b2380c
+                                    [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                                )
+
+                            [BOT_ID] => 22
+                            [BOT_CODE] => itrbot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 66
+                    [MESSAGE] => 1
+                    [TO_CHAT_ID] => 108
+                    [MESSAGE_TYPE] => L
+                    [SKIP_COMMAND] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [SILENT_CONNECTOR] => N
+                    [AUTHOR_ID] => 66
+                    [CHAT_ID] => 108
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => livechat|2|106|66
+                    [CHAT_ENTITY_DATA_1] => N|NONE|0|N|N|48|1551978817
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [MESSAGE_ORIGINAL] => 1
+                    [TO_USER_ID] => 0
+                    [DIALOG_ID] => chat108
+                    [MESSAGE_ID] => 1970
+                    [CHAT_TYPE] => L
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 66
+                    [NAME] => Гость
+                    [FIRST_NAME] => Гость
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1551978868
+    [auth] => Array
+        (
+            [access_token] => 845f815c00376e1a0037507a000000420000036cf439edc7cbb25605b4c7b0beb1a59b
+            [expires] => 1551982468
+            [expires_in] => 3600
+            [scope] => imbot,imopenlines
+            [domain] => b24-9bd55y.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-9bd55y.bitrix24.ru/rest/
+            [member_id] => d41d8cd98f00b204e9800998ecf8427e
+            [user_id] => 66
+            [refresh_token] => 74dea85c00376e1a0037507a00000042000003be7e9a7e2c6b3df0e1d53a5cc515e1f3
+            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:14:30
+ImBot send data
+Array
+(
+    [URL] => https://b24-9bd55y.bitrix24.ru/rest/imbot.message.add
+    [PARAMS] => Array
+        (
+            [DIALOG_ID] => chat108
+            [MESSAGE] => Пожалуйста, Евгений напиши номер города, в котором ты ищешь работу:[br][send=1]1.Оренбург[/send][br][send=2]2.Уфа[/send][br][send=3]3.Липецк[/send][br][send=4]4.Ижевск[/send][br][send=5]5.Белгород[/send][br][send=6]6.Старый Оскол[/send][br][send=7]7.Саратов[/send][br][send=8]8.Энгельс[/send][br][send=9]9.Балаково[/send][br][send=10]10.Нижнекамск[/send][br][send=11]11.Альметьевск[/send][br][send=12]12.Лениногорск[/send][br][send=13]13.Набережные Челны[/send][br][send=14]14.Чебоксары[/send][br][send=15]15.Новочебоксарск[/send][br][send=16]16.Орск[/send][br][send=17]17.Бузулук[/send][br][send=18]18.Новотроицк[/send][br][send=19]19.Стерлитамак[/send][br][send=10]20.Нефтекамск[/send][br][send=21]21.Салават[/send][br][send=22]22.Ишимбай[/send][br][send=23]23.Мелеуз[/send][br][send=24]24.Октябрьский[/send][br][send=25]25.Туймазы[/send]
+            [auth] => 845f815c00376e1a0037507a000000420000036cf439edc7cbb25605b4c7b0beb1a59b
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:14:34
+ImBot Event Query
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [22] => Array
+                        (
+                            [domain] => b24-9bd55y.bitrix24.ru
+                            [member_id] => 94baa03fab636214a4e31bff75b2380c
+                            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-9bd55y.bitrix24.ru
+                                    [member_id] => 94baa03fab636214a4e31bff75b2380c
+                                    [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                                )
+
+                            [BOT_ID] => 22
+                            [BOT_CODE] => itrbot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 66
+                    [MESSAGE] => 13
+                    [TO_CHAT_ID] => 108
+                    [MESSAGE_TYPE] => L
+                    [SKIP_COMMAND] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [SILENT_CONNECTOR] => N
+                    [AUTHOR_ID] => 66
+                    [CHAT_ID] => 108
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => livechat|2|106|66
+                    [CHAT_ENTITY_DATA_1] => N|NONE|0|N|N|48|1551978817
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [MESSAGE_ORIGINAL] => 13
+                    [TO_USER_ID] => 0
+                    [DIALOG_ID] => chat108
+                    [MESSAGE_ID] => 1978
+                    [CHAT_TYPE] => L
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 66
+                    [NAME] => Гость
+                    [FIRST_NAME] => Гость
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1551978873
+    [auth] => Array
+        (
+            [access_token] => 895f815c00376e1a0037507a000000420000031b4ad4b7515de1216aae0c96d565d21a
+            [expires] => 1551982473
+            [expires_in] => 3600
+            [scope] => imbot,imopenlines
+            [domain] => b24-9bd55y.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-9bd55y.bitrix24.ru/rest/
+            [member_id] => d41d8cd98f00b204e9800998ecf8427e
+            [user_id] => 66
+            [refresh_token] => 79dea85c00376e1a0037507a00000042000003d9588388d744b13519e909935f4fb943
+            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:14:34
+ImBot send data
+Array
+(
+    [URL] => https://b24-9bd55y.bitrix24.ru/rest/imbot.message.add
+    [PARAMS] => Array
+        (
+            [DIALOG_ID] => chat108
+            [MESSAGE] => Какое у Тебя гражданство?[br][send=1]1.Российская федерация[/send][br][send=2]2.Другое[/send]
+            [auth] => 895f815c00376e1a0037507a000000420000031b4ad4b7515de1216aae0c96d565d21a
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:14:39
+ImBot Event Query
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [22] => Array
+                        (
+                            [domain] => b24-9bd55y.bitrix24.ru
+                            [member_id] => 94baa03fab636214a4e31bff75b2380c
+                            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-9bd55y.bitrix24.ru
+                                    [member_id] => 94baa03fab636214a4e31bff75b2380c
+                                    [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                                )
+
+                            [BOT_ID] => 22
+                            [BOT_CODE] => itrbot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 66
+                    [MESSAGE] => 1
+                    [TO_CHAT_ID] => 108
+                    [MESSAGE_TYPE] => L
+                    [SKIP_COMMAND] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [SILENT_CONNECTOR] => N
+                    [AUTHOR_ID] => 66
+                    [CHAT_ID] => 108
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => livechat|2|106|66
+                    [CHAT_ENTITY_DATA_1] => N|NONE|0|N|N|48|1551978817
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [MESSAGE_ORIGINAL] => 1
+                    [TO_USER_ID] => 0
+                    [DIALOG_ID] => chat108
+                    [MESSAGE_ID] => 1986
+                    [CHAT_TYPE] => L
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 66
+                    [NAME] => Гость
+                    [FIRST_NAME] => Гость
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1551978877
+    [auth] => Array
+        (
+            [access_token] => 8e5f815c00376e1a0037507a000000420000032068b9b634baf6844e2ba5e3c0bb678b
+            [expires] => 1551982478
+            [expires_in] => 3600
+            [scope] => imbot,imopenlines
+            [domain] => b24-9bd55y.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-9bd55y.bitrix24.ru/rest/
+            [member_id] => d41d8cd98f00b204e9800998ecf8427e
+            [user_id] => 66
+            [refresh_token] => 7edea85c00376e1a0037507a00000042000003a96ee8c97085d7cc5c92773a34c44a85
+            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:14:39
+ImBot send data
+Array
+(
+    [URL] => https://b24-9bd55y.bitrix24.ru/rest/imbot.message.add
+    [PARAMS] => Array
+        (
+            [DIALOG_ID] => chat108
+            [MESSAGE] => Вы не ошиблись и у Вас действительно Российское гражданство?[br][send=Да]Да действительно[/send][br][send=Нет]Нет ошибся[/send]
+            [auth] => 8e5f815c00376e1a0037507a000000420000032068b9b634baf6844e2ba5e3c0bb678b
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:14:44
+ImBot Event Query
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [22] => Array
+                        (
+                            [domain] => b24-9bd55y.bitrix24.ru
+                            [member_id] => 94baa03fab636214a4e31bff75b2380c
+                            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-9bd55y.bitrix24.ru
+                                    [member_id] => 94baa03fab636214a4e31bff75b2380c
+                                    [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                                )
+
+                            [BOT_ID] => 22
+                            [BOT_CODE] => itrbot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 66
+                    [MESSAGE] => Да
+                    [TO_CHAT_ID] => 108
+                    [MESSAGE_TYPE] => L
+                    [SKIP_COMMAND] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [SILENT_CONNECTOR] => N
+                    [AUTHOR_ID] => 66
+                    [CHAT_ID] => 108
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => livechat|2|106|66
+                    [CHAT_ENTITY_DATA_1] => N|NONE|0|N|N|48|1551978817
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [MESSAGE_ORIGINAL] => Да
+                    [TO_USER_ID] => 0
+                    [DIALOG_ID] => chat108
+                    [MESSAGE_ID] => 1994
+                    [CHAT_TYPE] => L
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 66
+                    [NAME] => Гость
+                    [FIRST_NAME] => Гость
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1551978882
+    [auth] => Array
+        (
+            [access_token] => 935f815c00376e1a0037507a000000420000039f6b3ad98f028d4e23bf2e56598258d1
+            [expires] => 1551982483
+            [expires_in] => 3600
+            [scope] => imbot,imopenlines
+            [domain] => b24-9bd55y.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-9bd55y.bitrix24.ru/rest/
+            [member_id] => d41d8cd98f00b204e9800998ecf8427e
+            [user_id] => 66
+            [refresh_token] => 83dea85c00376e1a0037507a0000004200000349d93c6c448801eb2d42e171da592fdc
+            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:14:44
+ImBot send data
+Array
+(
+    [URL] => https://b24-9bd55y.bitrix24.ru/rest/imbot.message.add
+    [PARAMS] => Array
+        (
+            [DIALOG_ID] => chat108
+            [MESSAGE] => Сколько Тебе лет? Напиши, пожалуйста, цифрой
+            [auth] => 935f815c00376e1a0037507a000000420000039f6b3ad98f028d4e23bf2e56598258d1
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:14:52
+ImBot Event Query
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [22] => Array
+                        (
+                            [domain] => b24-9bd55y.bitrix24.ru
+                            [member_id] => 94baa03fab636214a4e31bff75b2380c
+                            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-9bd55y.bitrix24.ru
+                                    [member_id] => 94baa03fab636214a4e31bff75b2380c
+                                    [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                                )
+
+                            [BOT_ID] => 22
+                            [BOT_CODE] => itrbot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 66
+                    [MESSAGE] => 27
+                    [TO_CHAT_ID] => 108
+                    [MESSAGE_TYPE] => L
+                    [SKIP_COMMAND] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [SILENT_CONNECTOR] => N
+                    [AUTHOR_ID] => 66
+                    [CHAT_ID] => 108
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => livechat|2|106|66
+                    [CHAT_ENTITY_DATA_1] => N|NONE|0|N|N|48|1551978817
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [MESSAGE_ORIGINAL] => 27
+                    [TO_USER_ID] => 0
+                    [DIALOG_ID] => chat108
+                    [MESSAGE_ID] => 2002
+                    [CHAT_TYPE] => L
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 66
+                    [NAME] => Гость
+                    [FIRST_NAME] => Гость
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1551978890
+    [auth] => Array
+        (
+            [access_token] => 9b5f815c00376e1a0037507a0000004200000324f4a4704cf82b8dcefe16dd261b348d
+            [expires] => 1551982491
+            [expires_in] => 3600
+            [scope] => imbot,imopenlines
+            [domain] => b24-9bd55y.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-9bd55y.bitrix24.ru/rest/
+            [member_id] => d41d8cd98f00b204e9800998ecf8427e
+            [user_id] => 66
+            [refresh_token] => 8bdea85c00376e1a0037507a00000042000003559302148c414a61f1cb763c87da65f2
+            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:14:52
+ImBot send data
+Array
+(
+    [URL] => https://b24-9bd55y.bitrix24.ru/rest/imbot.message.add
+    [PARAMS] => Array
+        (
+            [DIALOG_ID] => chat108
+            [MESSAGE] => Вам действительно 27 лет?[br] [send=Да]Да[/send][br][send=Нет]Ой, ошибся[/send] 
+            [auth] => 9b5f815c00376e1a0037507a0000004200000324f4a4704cf82b8dcefe16dd261b348d
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:14:57
+ImBot Event Query
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [22] => Array
+                        (
+                            [domain] => b24-9bd55y.bitrix24.ru
+                            [member_id] => 94baa03fab636214a4e31bff75b2380c
+                            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-9bd55y.bitrix24.ru
+                                    [member_id] => 94baa03fab636214a4e31bff75b2380c
+                                    [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                                )
+
+                            [BOT_ID] => 22
+                            [BOT_CODE] => itrbot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 66
+                    [MESSAGE] => Да
+                    [TO_CHAT_ID] => 108
+                    [MESSAGE_TYPE] => L
+                    [SKIP_COMMAND] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [SILENT_CONNECTOR] => N
+                    [AUTHOR_ID] => 66
+                    [CHAT_ID] => 108
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => livechat|2|106|66
+                    [CHAT_ENTITY_DATA_1] => N|NONE|0|N|N|48|1551978817
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [MESSAGE_ORIGINAL] => Да
+                    [TO_USER_ID] => 0
+                    [DIALOG_ID] => chat108
+                    [MESSAGE_ID] => 2010
+                    [CHAT_TYPE] => L
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 66
+                    [NAME] => Гость
+                    [FIRST_NAME] => Гость
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1551978896
+    [auth] => Array
+        (
+            [access_token] => a05f815c00376e1a0037507a000000420000036e2ba554ac2c2b5236b4b2844cc2063f
+            [expires] => 1551982496
+            [expires_in] => 3600
+            [scope] => imbot,imopenlines
+            [domain] => b24-9bd55y.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-9bd55y.bitrix24.ru/rest/
+            [member_id] => d41d8cd98f00b204e9800998ecf8427e
+            [user_id] => 66
+            [refresh_token] => 90dea85c00376e1a0037507a00000042000003ef79c542d9946f455c63836d3fa4f9a2
+            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:14:57
+ImBot send data
+Array
+(
+    [URL] => https://b24-9bd55y.bitrix24.ru/rest/imbot.message.add
+    [PARAMS] => Array
+        (
+            [DIALOG_ID] => chat108
+            [MESSAGE] => Что в работе для Тебя важнее всего, укажи цифру (выбрать можно только один вариант):[br][send=1]1.Коллектив[/send][br][send=2]2.Заработная плата[/send][br][send=3]3.График[/send][br][send=4]4.Карьерный рост[/send][br][send=5]5.Хорошие условия труда[/send][br][send=6]6.Похвала со стороны руководства[/send][br][send=7]7.Имидж компании[/send]
+            [auth] => a05f815c00376e1a0037507a000000420000036e2ba554ac2c2b5236b4b2844cc2063f
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:15:03
+ImBot Event Query
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [22] => Array
+                        (
+                            [domain] => b24-9bd55y.bitrix24.ru
+                            [member_id] => 94baa03fab636214a4e31bff75b2380c
+                            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-9bd55y.bitrix24.ru
+                                    [member_id] => 94baa03fab636214a4e31bff75b2380c
+                                    [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                                )
+
+                            [BOT_ID] => 22
+                            [BOT_CODE] => itrbot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 66
+                    [MESSAGE] => 2
+                    [TO_CHAT_ID] => 108
+                    [MESSAGE_TYPE] => L
+                    [SKIP_COMMAND] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [SILENT_CONNECTOR] => N
+                    [AUTHOR_ID] => 66
+                    [CHAT_ID] => 108
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => livechat|2|106|66
+                    [CHAT_ENTITY_DATA_1] => N|NONE|0|N|N|48|1551978817
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [MESSAGE_ORIGINAL] => 2
+                    [TO_USER_ID] => 0
+                    [DIALOG_ID] => chat108
+                    [MESSAGE_ID] => 2018
+                    [CHAT_TYPE] => L
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 66
+                    [NAME] => Гость
+                    [FIRST_NAME] => Гость
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1551978901
+    [auth] => Array
+        (
+            [access_token] => a55f815c00376e1a0037507a00000042000003fdc76d15a497d7774af46479e318e76b
+            [expires] => 1551982501
+            [expires_in] => 3600
+            [scope] => imbot,imopenlines
+            [domain] => b24-9bd55y.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-9bd55y.bitrix24.ru/rest/
+            [member_id] => d41d8cd98f00b204e9800998ecf8427e
+            [user_id] => 66
+            [refresh_token] => 95dea85c00376e1a0037507a00000042000003c6a3d27a37a4b934112817ee36c87f3c
+            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:15:03
+ImBot send data
+Array
+(
+    [URL] => https://b24-9bd55y.bitrix24.ru/rest/imbot.message.add
+    [PARAMS] => Array
+        (
+            [DIALOG_ID] => chat108
+            [MESSAGE] => На какую заработную плату Ты рассчитываешь? Напиши, пожалуйста, сумму
+            [auth] => a55f815c00376e1a0037507a00000042000003fdc76d15a497d7774af46479e318e76b
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:15:10
+ImBot Event Query
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [22] => Array
+                        (
+                            [domain] => b24-9bd55y.bitrix24.ru
+                            [member_id] => 94baa03fab636214a4e31bff75b2380c
+                            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-9bd55y.bitrix24.ru
+                                    [member_id] => 94baa03fab636214a4e31bff75b2380c
+                                    [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                                )
+
+                            [BOT_ID] => 22
+                            [BOT_CODE] => itrbot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 66
+                    [MESSAGE] => 1000000
+                    [TO_CHAT_ID] => 108
+                    [MESSAGE_TYPE] => L
+                    [SKIP_COMMAND] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [SILENT_CONNECTOR] => N
+                    [AUTHOR_ID] => 66
+                    [CHAT_ID] => 108
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => livechat|2|106|66
+                    [CHAT_ENTITY_DATA_1] => N|NONE|0|N|N|48|1551978817
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [MESSAGE_ORIGINAL] => 1000000
+                    [TO_USER_ID] => 0
+                    [DIALOG_ID] => chat108
+                    [MESSAGE_ID] => 2026
+                    [CHAT_TYPE] => L
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 66
+                    [NAME] => Гость
+                    [FIRST_NAME] => Гость
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1551978908
+    [auth] => Array
+        (
+            [access_token] => ad5f815c00376e1a0037507a00000042000003379c8296a20280cad7aa846a253f4151
+            [expires] => 1551982509
+            [expires_in] => 3600
+            [scope] => imbot,imopenlines
+            [domain] => b24-9bd55y.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-9bd55y.bitrix24.ru/rest/
+            [member_id] => d41d8cd98f00b204e9800998ecf8427e
+            [user_id] => 66
+            [refresh_token] => 9ddea85c00376e1a0037507a000000420000033f18331f7f332fca4a65dbf9e3220b5e
+            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:15:10
+ImBot send data
+Array
+(
+    [URL] => https://b24-9bd55y.bitrix24.ru/rest/imbot.message.add
+    [PARAMS] => Array
+        (
+            [DIALOG_ID] => chat108
+            [MESSAGE] => Почему Ты хочешь работать в "Стройландии"?
+            [auth] => ad5f815c00376e1a0037507a00000042000003379c8296a20280cad7aa846a253f4151
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:15:17
+ImBot Event Query
+Array
+(
+    [event] => ONIMBOTMESSAGEADD
+    [data] => Array
+        (
+            [BOT] => Array
+                (
+                    [22] => Array
+                        (
+                            [domain] => b24-9bd55y.bitrix24.ru
+                            [member_id] => 94baa03fab636214a4e31bff75b2380c
+                            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                            [AUTH] => Array
+                                (
+                                    [domain] => b24-9bd55y.bitrix24.ru
+                                    [member_id] => 94baa03fab636214a4e31bff75b2380c
+                                    [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+                                )
+
+                            [BOT_ID] => 22
+                            [BOT_CODE] => itrbot
+                        )
+
+                )
+
+            [PARAMS] => Array
+                (
+                    [FROM_USER_ID] => 66
+                    [MESSAGE] => Баст
+                    [TO_CHAT_ID] => 108
+                    [MESSAGE_TYPE] => L
+                    [SKIP_COMMAND] => N
+                    [SKIP_CONNECTOR] => N
+                    [IMPORTANT_CONNECTOR] => N
+                    [SILENT_CONNECTOR] => N
+                    [AUTHOR_ID] => 66
+                    [CHAT_ID] => 108
+                    [CHAT_AUTHOR_ID] => 0
+                    [CHAT_ENTITY_TYPE] => LINES
+                    [CHAT_ENTITY_ID] => livechat|2|106|66
+                    [CHAT_ENTITY_DATA_1] => N|NONE|0|N|N|48|1551978817
+                    [COMMAND_CONTEXT] => TEXTAREA
+                    [MESSAGE_ORIGINAL] => Баст
+                    [TO_USER_ID] => 0
+                    [DIALOG_ID] => chat108
+                    [MESSAGE_ID] => 2034
+                    [CHAT_TYPE] => L
+                    [LANGUAGE] => ru
+                )
+
+            [USER] => Array
+                (
+                    [ID] => 66
+                    [NAME] => Гость
+                    [FIRST_NAME] => Гость
+                    [LAST_NAME] => 
+                    [WORK_POSITION] => 
+                    [GENDER] => M
+                    [IS_BOT] => N
+                    [IS_CONNECTOR] => Y
+                    [IS_NETWORK] => N
+                    [IS_EXTRANET] => Y
+                )
+
+        )
+
+    [ts] => 1551978916
+    [auth] => Array
+        (
+            [access_token] => b45f815c00376e1a0037507a000000420000031f5a16369394833221c0e2f51be8f078
+            [expires] => 1551982516
+            [expires_in] => 3600
+            [scope] => imbot,imopenlines
+            [domain] => b24-9bd55y.bitrix24.ru
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-9bd55y.bitrix24.ru/rest/
+            [member_id] => d41d8cd98f00b204e9800998ecf8427e
+            [user_id] => 66
+            [refresh_token] => a4dea85c00376e1a0037507a00000042000003cd7c4cc6765e8d942fd12bdfabb44194
+            [application_token] => 1dec6bbaffdeda026a6f0dc7fc29a698
+        )
+
+)
+
+------------------------
+
+------------------------
+2019.03.07 20:15:17
+ImBot send data
+Array
+(
+    [URL] => https://b24-9bd55y.bitrix24.ru/rest/imbot.message.add
+    [PARAMS] => Array
+        (
+            [DIALOG_ID] => chat108
+            [MESSAGE] => Отлично, Евгений! Первый шаг к успешной карьере в "Стройландия" сделан! Будь на связи, наш специалист свяжется с тобой в течении 3-х дней и пригласит на собеседование к директору магазина.
+            [auth] => b45f815c00376e1a0037507a000000420000031f5a16369394833221c0e2f51be8f078
+        )
+
+)
+
+------------------------
